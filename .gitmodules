@@ -1,0 +1,3 @@
+[submodule "deps/servant"]
+	path = deps/servant
+	url = http://github.com/haskell-servant/servant
